@@ -1,0 +1,6 @@
+{
+  "name": "modum wrapped",
+  "description": "Generador de historias y videos animados verticales estilo Spotify Wrapped para los hitos anuales de clientes de modum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
